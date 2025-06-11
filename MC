@@ -1,5 +1,13 @@
-USDT/TRON
+USDT/TRC20
 
 TF6gL5HwJRhBnvLxfDdFgxpus6Lpy2b3Xe
 
 Starts with TF6gL, ends with y2b3Xe
+
+------------------
+
+USDT/ERC20
+
+0x52f4f91206721c613f01d60aab2b755c87f287b8
+
+Starts with 0x52f4, ends with f287b8
